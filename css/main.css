@@ -1261,10 +1261,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 132px;
-  height: 74px;
+  width: 95px;
+  height: 73px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 98px 58px;
+  background-size: 93px 73px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
